@@ -13,6 +13,7 @@
       "discord": "GeneraLee913"
     }],
     "esmodules": ["namelessland.js"],
+    "actorTypes": ["character"],
     "styles": ["styles/styles.css"],
     "languages": [{
       "lang": "it",

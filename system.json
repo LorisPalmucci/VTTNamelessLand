@@ -24,7 +24,7 @@
     {
       "name": "characters",
       "label": "Personaggi Predefiniti",
-      "path": "template/characters.json",
+      "path": "template/characters.db",
       "type": "Actor"
     }],
     "initiative": "1d20",
@@ -35,6 +35,6 @@
     "primaryTokenAttribute": "resources.health",
     "secondaryTokenAttribute": "resources.power",
     "url": "https://github.com/LorisPalmucci/namelessland",
-    "manifest": "https://github.com/LorisPalmucci/namelessland/releases/download/vtt/system.json",
-    "download": "https://github.com/LorisPalmucci/namelessland/releases/download/vtt/namelessland.zip"
+    "manifest": "https://github.com/LorisPalmucci/namelessland/releases/latest/download/system.json",
+    "download": "https://github.com/LorisPalmucci/namelessland/releases/latest/download/namelessland.zip"
   }

@@ -19,11 +19,13 @@
       "name": "Italiano",
       "path": "lang/it.json"
     }],
-    "documentTypes": {
-      "actor": {
-        "character": "modules/mysimplerpg/templates/actor-sheet.html"
-      }
-    },
+    "packs": [
+    {
+      "name": "characters",
+      "label": "Personaggi Predefiniti",
+      "path": "template/characters.json",
+      "type": "Actor"
+    }],
     "initiative": "1d20",
     "grid": {
       "distance": 1,

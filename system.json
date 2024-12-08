@@ -12,39 +12,22 @@
       "email": "generalle913@gmail.com",
       "discord": "GeneraLee913"
     }],
-    "esmodules": ["namlessland.mjs"],
+    "esmodules": ["namlessland.js"],
     "styles": ["styles/system-styles.css"],
-    "packs": [{
-      "name": "monsters",
-      "label": "My Monsters",
-      "type": "Actor"
-    },
-    {
-      "name": "items",
-      "label": "My Items",
-      "type": "Item"
-    }],
     "languages": [{
       "lang": "it",
       "name": "Italiano",
       "path": "lang/it.json"
     }],
     "documentTypes": {
-      "Actor": {
-        "character": { "htmlFields": ["background.biography"] },
-        "villain": { "htmlFields": ["background.biography"] },
-        "vehicles": {}
-      },
-      "Item": {
-        "weapon": {},
-        "spell": {}
+      "actor": {
+        "character": "modules/mysimplerpg/templates/actor-sheet.html"
       }
     },
-    "socket": false,
     "initiative": "1d20",
     "grid": {
-      "distance": 10,
-      "units": "ft"
+      "distance": 1,
+      "units": "mt"
     },
     "primaryTokenAttribute": "resources.health",
     "secondaryTokenAttribute": "resources.power",

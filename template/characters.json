@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "hero1",
+    "name": "Eroe Iniziale",
+    "type": "character",
+    "system": {
+      "stats": {
+        "str": 14,
+        "dex": 12,
+        "int": 10
+      }
+    }
+  }
+]

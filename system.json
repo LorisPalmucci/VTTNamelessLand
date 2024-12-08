@@ -1,5 +1,5 @@
 {
-    "id": "namlessland",
+    "id": "namelessland",
     "title": "Namelessland game system",
     "description": "A system for playing the first edition of post-atomic role-playing game in the Foundry Virtual Tabletop environment.",
     "version": "1.0.0",
@@ -12,7 +12,7 @@
       "email": "generalle913@gmail.com",
       "discord": "GeneraLee913"
     }],
-    "esmodules": ["namlessland.json"],
+    "esmodules": ["namelessland.js"],
     "styles": ["styles/system-styles.css"],
     "languages": [{
       "lang": "it",

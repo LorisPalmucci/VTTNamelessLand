@@ -1,0 +1,15 @@
+.sheet {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    background: #f0f0f0;
+  }
+  
+  .stats ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .stats li {
+    margin: 5px 0;
+  }
+  

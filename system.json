@@ -12,7 +12,7 @@
       "email": "generalle913@gmail.com",
       "discord": "GeneraLee913"
     }],
-    "esmodules": ["namlessland.json"],
+    "esmodules": ["namelessland.js"],
     "styles": ["styles/system-styles.css"],
     "languages": [{
       "lang": "it",

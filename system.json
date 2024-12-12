@@ -13,19 +13,11 @@
       "discord": "GeneraLee913"
     }],
     "esmodules": ["namelessland.js"],
-    "actorTypes": ["character"],
     "styles": ["styles/styles.css"],
     "languages": [{
       "lang": "it",
       "name": "Italiano",
       "path": "lang/it.json"
-    }],
-    "packs": [
-    {
-      "name": "characters",
-      "label": "Personaggi Predefiniti",
-      "path": "template/characters.db",
-      "type": "Actor"
     }],
     "initiative": "1d20",
     "grid": {
